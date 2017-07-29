@@ -1,5 +1,15 @@
 # php-ajax-chatroom
 
+Features:
+
+
+user can delete and update their own chats by open
+right click context menu on chats ! <br>
+some validation on user login !<br>
+ajax emoji prediction !
+
+//TODO user point to point file transfer.
+
 
 i used mysql database to store and fetch our visitors chat .
 
