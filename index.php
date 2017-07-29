@@ -10,7 +10,6 @@
 
 <body>
 <div id="result"></div>
-<img id="loading-image" src="http://www.ticketstousa.co.uk/images/ajax-loading-large.gif" style="display:none;"/>
 
 <div id="show_case"></div>
 <input type='hidden' value='' id='message_id'>
