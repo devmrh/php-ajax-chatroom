@@ -52,5 +52,7 @@
 
 </footer>
 </body>
-
+<footer class="footer">
+    <p>fork this project at <a href="https://github.com/ultra2mh/php-ajax-chatroom">https://github.com/ultra2mh/php-ajax-chatroom</a></p>
+</footer>
 </html>

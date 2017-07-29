@@ -163,9 +163,8 @@ body {
 
     margin: 0 auto;
     text-align: center;
-    /* margin-left: 15px; */
     display: table;
-    width: 100px;
+    width: 145px;
 }
 
 #suggesstion-box p img {
@@ -176,6 +175,11 @@ body {
     display: inline;
     padding: 0;
     margin: 0;
+}
+
+.footer p {
+    font-size: 13px;
+    color: #a6a6a6;
 }
 
 @media screen and (max-width: 1360px)  and (min-width: 300px) {
@@ -196,7 +200,10 @@ body {
     }
 
     #suggesstion-box {
-        width: 155px;
+        position: relative;
+        z-index: 10;
+        background: #fff;
+        width: 100%;
     }
 
     #user_dash textarea {
